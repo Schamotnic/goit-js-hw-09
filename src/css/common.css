@@ -10,9 +10,43 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+   
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+#stop,
+#start{
+  margin-left: 20px;
+ background-color: aquamarine;
+ padding:10px 30px;
+ text-transform: uppercase;
+   
+ }
+  
+
+#div-button{
+  display: flex;
+  justify-content: center;
+  margin-top: 450px;
+  
+}
+
+.timer{
+  display: flex;
+}
+
+.label{
+  display: flex;
+}
+
+.field{
+  margin-left: 20px ;
+}
+
+#datetime-picker{
+  padding: 20px 40px;
 }
