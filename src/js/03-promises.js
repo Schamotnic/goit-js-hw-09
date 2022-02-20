@@ -41,4 +41,3 @@ function createPromise(position, delay) {
 }
 
  
- 
